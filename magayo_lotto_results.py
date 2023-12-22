@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'jhxYdhfHPKdFyhJteV' #https://www.magayo.com/api-area/account/
+api_key = 'xxxxxxxx' #https://www.magayo.com/api-area/account/
 game = 'ph_lotto649'           # find your game codes here https://www.magayo.com/lottery-docs/api/supported-games/
 draw_date = '2023-12-21'       # this can be blank
 
