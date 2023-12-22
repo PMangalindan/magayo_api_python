@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 import requests
 
 api_key = 'jhxYdhfHPKdFyhJteV' #https://www.magayo.com/api-area/account/
@@ -15,14 +9,6 @@ BASE_URL = f'https://www.magayo.com/api/results.php?api_key={api_key}&game={game
 response = requests.get(BASE_URL)
 print(response.json())
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
